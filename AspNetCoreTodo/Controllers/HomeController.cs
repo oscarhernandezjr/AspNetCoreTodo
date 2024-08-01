@@ -12,7 +12,7 @@ public class HomeController : Controller
     {
         _logger = logger;
     }
-
+//datata
     public IActionResult Index()
     {
         return View();
